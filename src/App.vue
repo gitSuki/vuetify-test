@@ -1,6 +1,11 @@
+<script setup>
+import SideBar from './components/SideBar.vue'
+
+</script>
+
 <template>
   <v-app>
-    <!-- sidebar -->
+    <side-bar></side-bar>
     <v-main>
       <!-- cards -->
     </v-main>
